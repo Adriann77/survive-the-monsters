@@ -1,5 +1,6 @@
 import './style.css';
 import Phaser from 'phaser';
+document.getElementById('gameCanvas');
 
 const sizes = {
   width: 500,
